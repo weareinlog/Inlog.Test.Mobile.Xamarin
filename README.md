@@ -6,7 +6,7 @@ Você deverá cirar um projeto simples consumindo a API [The Movie Database (TMD
 
 API URL - [https://api.themoviedb.org/3/](https://api.themoviedb.org/3/)
 
-API KEY - `1f54bd990f1cdfb230adb312546d765d`
+API KEY - `2e508b40194129537006b7a38aadd526`
 
 - GET upcoming movies - [https://developers.themoviedb.org/3/movies/get-upcoming](https://developers.themoviedb.org/3/movies/get-upcoming)
 - GET movie details - [https://developers.themoviedb.org/3/movies/get-movie-details](https://developers.themoviedb.org/3/movies/get-movie-details)
