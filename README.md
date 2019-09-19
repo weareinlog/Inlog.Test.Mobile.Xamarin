@@ -62,6 +62,7 @@ O app precisa ter duas telas com as seguintes funcionalidades:
 
 - Image caching
 - Sharing
+- Infinite Scroll na lista de filmes
 
 Você precisará submeter o projeto no GitHub [https://github.com/](https://github.com/) e nos enviar o link.
 
